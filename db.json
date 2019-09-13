@@ -1,16 +1,32 @@
 {
   "agendas": [
     {
-      "id": 1,
-      "title": "agenda 1"
+      "idtec": 1,
+      "nometec": "Leandro Fini"
     },
     {
-      "id": 2,
-      "title": "agenda 2"
+      "idtec": 1,
+      "nometec": "Leandro Fini"
     },
     {
-      "id": 3,
-      "title": "agenda 3"
+      "idtec": 2,
+      "nometec": "Merilyn Fini"
+    },
+    {
+      "idtec": 2,
+      "nometec": "Merilyn Fini"
+    },
+    {
+      "idtec": 2,
+      "nometec": "Merilyn Fini"
+    },
+    {
+      "idtec": 3,
+      "nometec": "Thiago Oliveira"
+    },
+    {
+      "idtec": 3,
+      "nometec": "Thiago Oliveira"
     }
   ]
 }

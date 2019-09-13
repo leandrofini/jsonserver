@@ -3,7 +3,7 @@
     {
       "idtec": 1,
       "nometec": "Leandro Fini",
-      "data": "20190101",
+      "data": "12/09/2019",
       "idproj": "777",
       "nomeproj": "Security",
       "endereco": "rua teste 2"
@@ -11,7 +11,7 @@
     {
       "idtec": 1,
       "nometec": "Leandro Fini",
-      "data": "20190103",
+      "data": "05/09/2019",
       "idproj": "555",
       "nomeproj": "TOTVS",
       "endereco": "av braz leme"
@@ -19,7 +19,7 @@
     {
       "idtec": 2,
       "nometec": "Merilyn Fini",
-      "data": "20190101",
+      "data": "06/09/2019",
       "idproj": "777",
       "nomeproj": "Mave",
       "endereco": "rua teste 333"
@@ -27,7 +27,7 @@
     {
       "idtec": 2,
       "nometec": "Merilyn Fini",
-      "data": "20190110",
+      "data": "01/09/2019",
       "idproj": "777",
       "nomeproj": "Security",
       "endereco": "rua teste 2"
@@ -35,7 +35,7 @@
     {
       "idtec": 2,
       "nometec": "Merilyn Fini",
-      "data": "20190101",
+      "data": "23/09/2019",
       "idproj": "777",
       "nomeproj": "Security",
       "endereco": "rua teste 2"
@@ -43,7 +43,7 @@
     {
       "idtec": 3,
       "nometec": "Thiago Oliveira",
-      "data": "20190806",
+      "data": "12/09/2019",
       "idproj": "777",
       "nomeproj": "Security",
       "endereco": "rua teste 2"
@@ -51,7 +51,7 @@
     {
       "idtec": 3,
       "nometec": "Thiago Oliveira",
-      "data": "20190807",
+      "data": "04/09/2019",
       "idproj": "888",
       "nomeproj": "Grupo GP",
       "endereco": "rua teste 555"

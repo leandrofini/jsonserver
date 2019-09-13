@@ -10,7 +10,7 @@
     },
     {
       "idtec": 1,
-      "nometec": "Leandro Fini"
+      "nometec": "Leandro Fini",
       "data": "20190103",
       "idproj": "555",
       "nomeproj": "TOTVS",
@@ -18,7 +18,7 @@
     },
     {
       "idtec": 2,
-      "nometec": "Merilyn Fini"
+      "nometec": "Merilyn Fini",
       "data": "20190101",
       "idproj": "777",
       "nomeproj": "Mave",
@@ -26,7 +26,7 @@
     },
     {
       "idtec": 2,
-      "nometec": "Merilyn Fini"
+      "nometec": "Merilyn Fini",
       "data": "20190110",
       "idproj": "777",
       "nomeproj": "Security",
@@ -34,7 +34,7 @@
     },
     {
       "idtec": 2,
-      "nometec": "Merilyn Fini"
+      "nometec": "Merilyn Fini",
       "data": "20190101",
       "idproj": "777",
       "nomeproj": "Security",
@@ -42,7 +42,7 @@
     },
     {
       "idtec": 3,
-      "nometec": "Thiago Oliveira"
+      "nometec": "Thiago Oliveira",
       "data": "20190806",
       "idproj": "777",
       "nomeproj": "Security",
@@ -50,7 +50,7 @@
     },
     {
       "idtec": 3,
-      "nometec": "Thiago Oliveira"
+      "nometec": "Thiago Oliveira",
       "data": "20190807",
       "idproj": "888",
       "nomeproj": "Grupo GP",

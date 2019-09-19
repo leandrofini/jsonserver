@@ -11,7 +11,6 @@
     {
       "idtec": 1,
       "nometec": "Leandro Fini",
-      "emailtec": "leandro.fini@ds2u.com.br",
       "data": "20190514",
       "idproj": "555",
       "nomeproj": "TOTVS",
@@ -20,7 +19,6 @@
     {
       "idtec": 2,
       "nometec": "Merilyn Fini",
-      "emailtec": "merilyn.fini@ds2u.com.br",
       "data": "06/09/2019",
       "idproj": "777",
       "nomeproj": "Mave",
@@ -29,7 +27,6 @@
     {
       "idtec": 2,
       "nometec": "Merilyn Fini",
-      "emailtec": "merilyn.fini@ds2u.com.br",
       "data": "01/09/2019",
       "idproj": "777",
       "nomeproj": "Security",
@@ -38,7 +35,6 @@
     {
       "idtec": 2,
       "nometec": "Merilyn Fini",
-      "emailtec": "merilyn.fini@ds2u.com.br",
       "data": "23/09/2019",
       "idproj": "777",
       "nomeproj": "Security",
@@ -47,7 +43,6 @@
     {
       "idtec": 3,
       "nometec": "Thiago Oliveira",
-      "emailtec": "thiago.oliveira@ds2u.com.br",
       "data": "12/09/2019",
       "idproj": "777",
       "nomeproj": "Security",
@@ -56,7 +51,6 @@
     {
       "idtec": 3,
       "nometec": "Thiago Oliveira",
-      "emailtec": "thiago.oliveira@ds2u.com.br",
       "data": "04/09/2019",
       "idproj": "888",
       "nomeproj": "Grupo GP",

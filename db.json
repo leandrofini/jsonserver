@@ -319,22 +319,6 @@
       "projeto": "(777) IMPLANTAÇÃO PROTHEUS",
       "tarefa": "(489) ATIVIDADES GERAIS",
       "gerente": "VITOR RASPA"
-    },
-    {
-      "idtec": 1,
-      "nometec": "Leandro Fini",
-      "emailtec": "leandro.fini@ds2u.com.br",
-      "data": "24/05/2019",
-      "codproj": "777",
-      "nomeproj": "Security",
-      "endereco": "Rua de Teste, 1044",
-      "bairro": "Casa Verde",
-      "cidade": "Presidente Prudente",
-      "contato": "Glauco Ruiz",
-      "telefone": "(11)2099.7500",
-      "projeto": "(777) IMPLANTAÇÃO PROTHEUS",
-      "tarefa": "(489) ATIVIDADES GERAIS",
-      "gerente": "VITOR RASPA"
     }
   ]
 }

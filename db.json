@@ -7,7 +7,14 @@
       "data": "20190504",
       "codproj": "777",
       "nomeproj": "Security",
-      "endereco": "Rua de Teste, 1044"
+      "endereco": "Rua de Teste, 1044",
+      "bairro": "Casa Verde",
+      "cidade": "Presidente Prudente",
+      "contato": "Glauco Ruiz",
+      "telefone": "(11)2099.7500",
+      "projeto": "(777) IMPLANTAÇÃO PROTHEUS",
+      "tarefa": "(489) ATIVIDADES GERAIS",
+      "gerente": "VITOR RASPA"
     },
     {
       "idtec": 1,
@@ -16,7 +23,14 @@
       "data": "20190514",
       "codproj": "555",
       "nomeproj": "Totvs",
-      "endereco": "Avenida Braz Leme, 1000"
+      "endereco": "Avenida Braz Leme, 1000",
+      "bairro": "Casa Verde",
+      "cidade": "São Paulo",
+      "contato": "Paulo Moreto",
+      "telefone": "(11)2099.7500",
+      "projeto": "(777) (TOTVS)ALOCACOES INTERNAS DRG",
+      "tarefa": "(489) ATIVIDADES GERAIS",
+      "gerente": "DEMETRIO FONTES DE LOS RIOS"
     },
     {
       "idtec": 1,
@@ -25,7 +39,14 @@
       "data": "20190515",
       "codproj": "555",
       "nomeproj": "Totvs",
-      "endereco": "Avenida Braz Leme, 1000"
+      "endereco": "Avenida Braz Leme, 1000",
+      "bairro": "Casa Verde",
+      "cidade": "São Paulo",
+      "contato": "Paulo Moreto",
+      "telefone": "(11)2099.7500",
+      "projeto": "(777) (TOTVS)ALOCACOES INTERNAS DRG",
+      "tarefa": "(489) ATIVIDADES GERAIS",
+      "gerente": "DEMETRIO FONTES DE LOS RIOS"
     },
     {
       "idtec": 1,
@@ -34,7 +55,14 @@
       "data": "20190516",
       "codproj": "555",
       "nomeproj": "Totvs",
-      "endereco": "Avenida Braz Leme, 1000"
+      "endereco": "Avenida Braz Leme, 1000",
+      "bairro": "Casa Verde",
+      "cidade": "São Paulo",
+      "contato": "Paulo Moreto",
+      "telefone": "(11)2099.7500",
+      "projeto": "(777) (TOTVS)ALOCACOES INTERNAS DRG",
+      "tarefa": "(489) ATIVIDADES GERAIS",
+      "gerente": "DEMETRIO FONTES DE LOS RIOS"
     },
     {
       "idtec": 1,
@@ -43,7 +71,14 @@
       "data": "20190517",
       "codproj": "555",
       "nomeproj": "Totvs",
-      "endereco": "Avenida Braz Leme, 1000"
+      "endereco": "Avenida Braz Leme, 1000",
+      "bairro": "Casa Verde",
+      "cidade": "São Paulo",
+      "contato": "Paulo Moreto",
+      "telefone": "(11)2099.7500",
+      "projeto": "(777) (TOTVS)ALOCACOES INTERNAS DRG",
+      "tarefa": "(489) ATIVIDADES GERAIS",
+      "gerente": "DEMETRIO FONTES DE LOS RIOS"
     },
     {
       "idtec": 1,
@@ -52,7 +87,14 @@
       "data": "20190518",
       "codproj": "555",
       "nomeproj": "Grupo GP",
-      "endereco": "Avenida 9 de Julho, 3845"
+      "endereco": "Avenida 9 de Julho, 3845",
+      "bairro": "Jardim Paulista",
+      "cidade": "São Paulo",
+      "contato": "Edgar",
+      "telefone": "(11)2099.7500",
+      "projeto": "(555) GRUPO GP",
+      "tarefa": "(489) ATIVIDADES GERAIS",
+      "gerente": "VITOR RASPA"
     },
     {
       "idtec": 1,
@@ -61,7 +103,14 @@
       "data": "20190519",
       "codproj": "555",
       "nomeproj": "Totvs",
-      "endereco": "Avenida Braz Leme, 1000"
+      "endereco": "Avenida Braz Leme, 1000",
+      "bairro": "Casa Verde",
+      "cidade": "São Paulo",
+      "contato": "Paulo Moreto",
+      "telefone": "(11)2099.7500",
+      "projeto": "(777) (TOTVS)ALOCACOES INTERNAS DRG",
+      "tarefa": "(489) ATIVIDADES GERAIS",
+      "gerente": "DEMETRIO FONTES DE LOS RIOS"
     },
     {
       "idtec": 1,
@@ -70,7 +119,14 @@
       "data": "20190520",
       "codproj": "555",
       "nomeproj": "Grupo GP",
-      "endereco": "Avenida 9 de Julho, 3845"
+       "endereco": "Avenida 9 de Julho, 3845",
+      "bairro": "Jardim Paulista",
+      "cidade": "São Paulo",
+      "contato": "Edgar",
+      "telefone": "(11)2099.7500",
+      "projeto": "(555) GRUPO GP",
+      "tarefa": "(489) ATIVIDADES GERAIS",
+      "gerente": "VITOR RASPA"
     },
     {
       "idtec": 1,
@@ -79,7 +135,14 @@
       "data": "20190521",
       "idproj": "777",
       "nomeproj": "Security",
-      "endereco": "Rua de Teste, 1044"
+      "endereco": "Rua de Teste, 1044",
+      "bairro": "Casa Verde",
+      "cidade": "Presidente Prudente",
+      "contato": "Glauco Ruiz",
+      "telefone": "(11)2099.7500",
+      "projeto": "(777) IMPLANTAÇÃO PROTHEUS",
+      "tarefa": "(489) ATIVIDADES GERAIS",
+      "gerente": "VITOR RASPA"
     },
     {
       "idtec": 1,
@@ -88,7 +151,14 @@
       "data": "20190522",
       "codproj": "777",
       "nomeproj": "Security",
-      "endereco": "Rua de Teste, 1044"
+      "endereco": "Rua de Teste, 1044",
+      "bairro": "Casa Verde",
+      "cidade": "Presidente Prudente",
+      "contato": "Glauco Ruiz",
+      "telefone": "(11)2099.7500",
+      "projeto": "(777) IMPLANTAÇÃO PROTHEUS",
+      "tarefa": "(489) ATIVIDADES GERAIS",
+      "gerente": "VITOR RASPA"
     },
     {
       "idtec": 1,
@@ -97,7 +167,14 @@
       "data": "20190523",
       "codproj": "777",
       "nomeproj": "Security",
-      "endereco": "Rua de Teste, 1044"
+      "endereco": "Rua de Teste, 1044",
+      "bairro": "Casa Verde",
+      "cidade": "Presidente Prudente",
+      "contato": "Glauco Ruiz",
+      "telefone": "(11)2099.7500",
+      "projeto": "(777) IMPLANTAÇÃO PROTHEUS",
+      "tarefa": "(489) ATIVIDADES GERAIS",
+      "gerente": "VITOR RASPA"
     },
     {
       "idtec": 1,
@@ -106,7 +183,14 @@
       "data": "20190524",
       "codproj": "777",
       "nomeproj": "Security",
-      "endereco": "Rua de Teste, 1044"
+      "endereco": "Rua de Teste, 1044",
+      "bairro": "Casa Verde",
+      "cidade": "Presidente Prudente",
+      "contato": "Glauco Ruiz",
+      "telefone": "(11)2099.7500",
+      "projeto": "(777) IMPLANTAÇÃO PROTHEUS",
+      "tarefa": "(489) ATIVIDADES GERAIS",
+      "gerente": "VITOR RASPA"
     },
     {
       "idtec": 1,
@@ -115,7 +199,14 @@
       "data": "20190525",
       "codproj": "777",
       "nomeproj": "Security",
-      "endereco": "Rua de Teste, 1044"
+      "endereco": "Rua de Teste, 1044",
+      "bairro": "Casa Verde",
+      "cidade": "Presidente Prudente",
+      "contato": "Glauco Ruiz",
+      "telefone": "(11)2099.7500",
+      "projeto": "(777) IMPLANTAÇÃO PROTHEUS",
+      "tarefa": "(489) ATIVIDADES GERAIS",
+      "gerente": "VITOR RASPA"
     },
     {
       "idtec": 1,
@@ -124,7 +215,14 @@
       "data": "20190526",
       "codproj": "777",
       "nomeproj": "Security",
-      "endereco": "Rua de Teste, 1044"
+      "endereco": "Rua de Teste, 1044",
+      "bairro": "Casa Verde",
+      "cidade": "Presidente Prudente",
+      "contato": "Glauco Ruiz",
+      "telefone": "(11)2099.7500",
+      "projeto": "(777) IMPLANTAÇÃO PROTHEUS",
+      "tarefa": "(489) ATIVIDADES GERAIS",
+      "gerente": "VITOR RASPA"
     },
     {
       "idtec": 1,
@@ -133,7 +231,14 @@
       "data": "20190527",
       "codproj": "777",
       "nomeproj": "Security",
-      "endereco": "Rua de Teste, 1044"
+      "endereco": "Rua de Teste, 1044",
+      "bairro": "Casa Verde",
+      "cidade": "Presidente Prudente",
+      "contato": "Glauco Ruiz",
+      "telefone": "(11)2099.7500",
+      "projeto": "(777) IMPLANTAÇÃO PROTHEUS",
+      "tarefa": "(489) ATIVIDADES GERAIS",
+      "gerente": "VITOR RASPA"
     },
     {
       "idtec": 1,
@@ -142,7 +247,14 @@
       "data": "20190528",
       "codproj": "777",
       "nomeproj": "Security",
-      "endereco": "Rua de Teste, 1044"
+      "endereco": "Rua de Teste, 1044",
+      "bairro": "Casa Verde",
+      "cidade": "Presidente Prudente",
+      "contato": "Glauco Ruiz",
+      "telefone": "(11)2099.7500",
+      "projeto": "(777) IMPLANTAÇÃO PROTHEUS",
+      "tarefa": "(489) ATIVIDADES GERAIS",
+      "gerente": "VITOR RASPA"
     },
     {
       "idtec": 1,
@@ -151,7 +263,14 @@
       "data": "20190529",
       "codproj": "777",
       "nomeproj": "Security",
-      "endereco": "Rua de Teste, 1044"
+      "endereco": "Rua de Teste, 1044",
+      "bairro": "Casa Verde",
+      "cidade": "Presidente Prudente",
+      "contato": "Glauco Ruiz",
+      "telefone": "(11)2099.7500",
+      "projeto": "(777) IMPLANTAÇÃO PROTHEUS",
+      "tarefa": "(489) ATIVIDADES GERAIS",
+      "gerente": "VITOR RASPA"
     },
     {
       "idtec": 2,

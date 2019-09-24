@@ -335,51 +335,6 @@
       "projeto": "(777) IMPLANTAÇÃO PROTHEUS",
       "tarefa": "(489) ATIVIDADES GERAIS",
       "gerente": "VITOR RASPA"
-    },
-    {
-      "idtec": 2,
-      "nometec": "Merilyn Fini",
-      "emailtec": "merilyn.fini@ds2u.com.br",
-      "data": "06/09/2019",
-      "codproj": "777",
-      "nomeproj": "Mave",
-      "endereco": "Rua de Teste, 300"
-    },
-    {
-      "idtec": 2,
-      "nometec": "Merilyn Fini",
-      "emailtec": "merilyn.fini@ds2u.com.br",
-      "data": "01/09/2019",
-      "codproj": "777",
-      "nomeproj": "Security",
-      "endereco": "Rua de Teste, 1044"
-    },
-    {
-      "idtec": 2,
-      "nometec": "Merilyn Fini",
-      "emailtec": "merilyn.fini@ds2u.com.br",
-      "data": "23/09/2019",
-      "codproj": "777",
-      "nomeproj": "Security",
-      "endereco": "Rua de Teste, 1044"
-    },
-    {
-      "idtec": 3,
-      "nometec": "Thiago Oliveira",
-      "emailtec": "thiago.oliveira@ds2u.com.br",
-      "data": "12/09/2019",
-      "codproj": "777",
-      "nomeproj": "Security",
-      "endereco": "Rua de Teste, 1044"
-    },
-    {
-      "idtec": 3,
-      "nometec": "Thiago Oliveira",
-      "emailtec": "thiago.oliveira@ds2u.com.br",
-      "data": "04/09/2019",
-      "codproj": "888",
-      "nomeproj": "Grupo GP",
-      "endereco": "Avenida 9 de Julho, 3845"
     }
   ]
 }
